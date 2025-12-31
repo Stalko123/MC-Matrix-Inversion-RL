@@ -4,7 +4,7 @@ This repository reproduces and extends the results from **Barto & Duff (1993)** 
 
 ---
 
-## 🔹 Features
+## Features
 
 - Implementation of **Monte Carlo Matrix Inversion (MCMI)** for policy evaluation  
 - **Reproduction of original simulation results** from the paper  
@@ -14,7 +14,7 @@ This repository reproduces and extends the results from **Barto & Duff (1993)** 
 
 ---
 
-## 🔹 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
